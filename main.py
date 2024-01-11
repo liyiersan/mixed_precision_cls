@@ -172,7 +172,7 @@ if __name__ == '__main__':
     parser.add_argument('--resume', type=bool, default=True, help='resume model path')
     parser.add_argument('--epochs', type=int, default=100, help='number of epochs')
     parser.add_argument('--batch_size', type=int, default=256, help='batch size')
-    parser.add_argument('--lr', type=float, default=0.0001, help='learning rate')
+    parser.add_argument('--lr', type=float, default=1e-4, help='learning rate')
     parser.add_argument('--data_dir', type=str, default='tiny-imagenet-200', help='data directory')
     parser.add_argument('--save_dir', type=str, default='results', help='save directory')
     parser.add_argument('--early_stop', type=int, default=20, help='early stop')
