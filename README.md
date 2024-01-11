@@ -6,6 +6,8 @@ You can download Tiny-imagenet through http://cs231n.stanford.edu/tiny-imagenet-
 Run main.py to see the results of mixed precision and FP32 training.
 ### notes
 Currently, the classification performance is very bad on tiny-imagenet, the results is consistent with https://github.com/tjmoon0104/Tiny-ImageNet-Classifier.
+
 I guess the main reason is the low image resolution and complex model. You can try to upsample the image as well as simple models like LeNet5 and ResNet_cifar.
+
 For ResNet_cifar, you can refer to https://github.com/microsoft/snca.pytorch/blob/master/models/resnet_cifar.py.
 
