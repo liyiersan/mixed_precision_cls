@@ -1,0 +1,289 @@
+nohup: 忽略输入
+No model to resume
+############ Epoch: 0 start ###############
+Train Epoch: 0 [0/100000 (0%)]	Loss: 5.5485
+Train Epoch: 0 [25600/100000 (26%)]	Loss: 5.5676
+Train Epoch: 0 [51200/100000 (51%)]	Loss: 5.5609
+Train Epoch: 0 [76800/100000 (77%)]	Loss: 5.4435
+Training time for epoch 0: 89.4603762626648 seconds
+Throughput in training for epoch 0: 1117.8133177798156 images/sec
+Train set: Average loss: 5.5391
+Testing time: 8.152398824691772 seconds
+Throughput for testing: 1226.632824894712 images/sec
+Test set: Average loss: 5.5561, Accuracy: 0.0046, Precision: 0.0036, Recall: 0.0046, F1: 0.0161, Average: 0.0072
+Saving model at epoch 0 with test loss of 5.5561
+
+############ Epoch: 1 start ###############
+Train Epoch: 1 [0/100000 (0%)]	Loss: 5.4941
+Train Epoch: 1 [25600/100000 (26%)]	Loss: 5.5582
+Train Epoch: 1 [51200/100000 (51%)]	Loss: 5.6037
+Train Epoch: 1 [76800/100000 (77%)]	Loss: 5.6114
+Training time for epoch 1: 92.38184595108032 seconds
+Throughput in training for epoch 1: 1082.4637564933892 images/sec
+Train set: Average loss: 5.5380
+Testing time: 7.993459463119507 seconds
+Throughput for testing: 1251.022795091204 images/sec
+Test set: Average loss: 5.5574, Accuracy: 0.0049, Precision: 0.0019, Recall: 0.0049, F1: 0.0123, Average: 0.0060
+
+############ Epoch: 2 start ###############
+Train Epoch: 2 [0/100000 (0%)]	Loss: 5.6192
+Train Epoch: 2 [25600/100000 (26%)]	Loss: 5.4812
+Train Epoch: 2 [51200/100000 (51%)]	Loss: 5.5557
+Train Epoch: 2 [76800/100000 (77%)]	Loss: 5.5236
+Training time for epoch 2: 91.37617802619934 seconds
+Throughput in training for epoch 2: 1094.3771359240702 images/sec
+Train set: Average loss: 5.5380
+Testing time: 7.971249341964722 seconds
+Throughput for testing: 1254.5084930858832 images/sec
+Test set: Average loss: 5.5641, Accuracy: 0.0052, Precision: 0.0049, Recall: 0.0052, F1: 0.0186, Average: 0.0085
+
+############ Epoch: 3 start ###############
+Train Epoch: 3 [0/100000 (0%)]	Loss: 5.6008
+Train Epoch: 3 [25600/100000 (26%)]	Loss: 5.5397
+Train Epoch: 3 [51200/100000 (51%)]	Loss: 5.5667
+Train Epoch: 3 [76800/100000 (77%)]	Loss: 5.4933
+Training time for epoch 3: 91.2096529006958 seconds
+Throughput in training for epoch 3: 1096.3751842019908 images/sec
+Train set: Average loss: 5.5374
+Testing time: 8.00579047203064 seconds
+Throughput for testing: 1249.095893145894 images/sec
+Test set: Average loss: 5.5580, Accuracy: 0.0052, Precision: 0.0082, Recall: 0.0052, F1: 0.0170, Average: 0.0089
+
+############ Epoch: 4 start ###############
+Train Epoch: 4 [0/100000 (0%)]	Loss: 5.4745
+Train Epoch: 4 [25600/100000 (26%)]	Loss: 5.5045
+Train Epoch: 4 [51200/100000 (51%)]	Loss: 5.6038
+Train Epoch: 4 [76800/100000 (77%)]	Loss: 5.5436
+Training time for epoch 4: 89.42056775093079 seconds
+Throughput in training for epoch 4: 1118.3109492050735 images/sec
+Train set: Average loss: 5.5390
+Testing time: 7.837168216705322 seconds
+Throughput for testing: 1275.971080815197 images/sec
+Test set: Average loss: 5.5386, Accuracy: 0.0044, Precision: 0.0018, Recall: 0.0044, F1: 0.0124, Average: 0.0058
+Saving model at epoch 4 with test loss of 5.5386
+
+############ Epoch: 5 start ###############
+Train Epoch: 5 [0/100000 (0%)]	Loss: 5.5402
+Train Epoch: 5 [25600/100000 (26%)]	Loss: 5.4905
+Train Epoch: 5 [51200/100000 (51%)]	Loss: 5.5363
+Train Epoch: 5 [76800/100000 (77%)]	Loss: 5.5444
+Training time for epoch 5: 91.4711446762085 seconds
+Throughput in training for epoch 5: 1093.2409379371181 images/sec
+Train set: Average loss: 5.5387
+Testing time: 8.020162582397461 seconds
+Throughput for testing: 1246.8575165730254 images/sec
+Test set: Average loss: 5.5549, Accuracy: 0.0053, Precision: 0.0047, Recall: 0.0053, F1: 0.0176, Average: 0.0082
+
+############ Epoch: 6 start ###############
+Train Epoch: 6 [0/100000 (0%)]	Loss: 5.4921
+Train Epoch: 6 [25600/100000 (26%)]	Loss: 5.4924
+Train Epoch: 6 [51200/100000 (51%)]	Loss: 5.5053
+Train Epoch: 6 [76800/100000 (77%)]	Loss: 5.5408
+Training time for epoch 6: 92.30564284324646 seconds
+Throughput in training for epoch 6: 1083.3573866098318 images/sec
+Train set: Average loss: 5.5370
+Testing time: 7.9712440967559814 seconds
+Throughput for testing: 1254.5093185729504 images/sec
+Test set: Average loss: 5.5580, Accuracy: 0.0047, Precision: 0.0017, Recall: 0.0047, F1: 0.0123, Average: 0.0059
+
+############ Epoch: 7 start ###############
+Train Epoch: 7 [0/100000 (0%)]	Loss: 5.5450
+Train Epoch: 7 [25600/100000 (26%)]	Loss: 5.5500
+Train Epoch: 7 [51200/100000 (51%)]	Loss: 5.5815
+Train Epoch: 7 [76800/100000 (77%)]	Loss: 5.5333
+Training time for epoch 7: 89.88437032699585 seconds
+Throughput in training for epoch 7: 1112.5404743472518 images/sec
+Train set: Average loss: 5.5374
+Testing time: 7.798966646194458 seconds
+Throughput for testing: 1282.2211523214485 images/sec
+Test set: Average loss: 5.5626, Accuracy: 0.0051, Precision: 0.0030, Recall: 0.0051, F1: 0.0150, Average: 0.0070
+
+############ Epoch: 8 start ###############
+Train Epoch: 8 [0/100000 (0%)]	Loss: 5.5437
+Train Epoch: 8 [25600/100000 (26%)]	Loss: 5.5061
+Train Epoch: 8 [51200/100000 (51%)]	Loss: 5.5746
+Train Epoch: 8 [76800/100000 (77%)]	Loss: 5.6001
+Training time for epoch 8: 91.22945070266724 seconds
+Throughput in training for epoch 8: 1096.137258635016 images/sec
+Train set: Average loss: 5.5385
+Testing time: 7.841695070266724 seconds
+Throughput for testing: 1275.2344882571244 images/sec
+Test set: Average loss: 5.5576, Accuracy: 0.0051, Precision: 0.0124, Recall: 0.0051, F1: 0.0163, Average: 0.0097
+
+############ Epoch: 9 start ###############
+Train Epoch: 9 [0/100000 (0%)]	Loss: 5.5867
+Train Epoch: 9 [25600/100000 (26%)]	Loss: 5.5775
+Train Epoch: 9 [51200/100000 (51%)]	Loss: 5.5107
+Train Epoch: 9 [76800/100000 (77%)]	Loss: 5.5494
+Training time for epoch 9: 90.24162244796753 seconds
+Throughput in training for epoch 9: 1108.1361049072345 images/sec
+Train set: Average loss: 5.5383
+Testing time: 7.885370969772339 seconds
+Throughput for testing: 1268.1711536887544 images/sec
+Test set: Average loss: 5.5449, Accuracy: 0.0042, Precision: 0.0019, Recall: 0.0042, F1: 0.0126, Average: 0.0057
+
+############ Epoch: 10 start ###############
+Train Epoch: 10 [0/100000 (0%)]	Loss: 5.5781
+Train Epoch: 10 [25600/100000 (26%)]	Loss: 5.4955
+Train Epoch: 10 [51200/100000 (51%)]	Loss: 5.5533
+Train Epoch: 10 [76800/100000 (77%)]	Loss: 5.5045
+Training time for epoch 10: 91.9929563999176 seconds
+Throughput in training for epoch 10: 1087.039746448344 images/sec
+Train set: Average loss: 5.5367
+Testing time: 7.971872091293335 seconds
+Throughput for testing: 1254.4104929783973 images/sec
+Test set: Average loss: 5.5598, Accuracy: 0.0055, Precision: 0.0026, Recall: 0.0055, F1: 0.0141, Average: 0.0069
+
+############ Epoch: 11 start ###############
+Train Epoch: 11 [0/100000 (0%)]	Loss: 5.5111
+Train Epoch: 11 [25600/100000 (26%)]	Loss: 5.5863
+Train Epoch: 11 [51200/100000 (51%)]	Loss: 5.5446
+Train Epoch: 11 [76800/100000 (77%)]	Loss: 5.5037
+Training time for epoch 11: 92.345867395401 seconds
+Throughput in training for epoch 11: 1082.8854914733324 images/sec
+Train set: Average loss: 5.5375
+Testing time: 8.006290674209595 seconds
+Throughput for testing: 1249.0178544494615 images/sec
+Test set: Average loss: 5.5586, Accuracy: 0.0056, Precision: 0.0053, Recall: 0.0056, F1: 0.0203, Average: 0.0092
+
+############ Epoch: 12 start ###############
+Train Epoch: 12 [0/100000 (0%)]	Loss: 5.5574
+Train Epoch: 12 [25600/100000 (26%)]	Loss: 5.5602
+Train Epoch: 12 [51200/100000 (51%)]	Loss: 5.5448
+Train Epoch: 12 [76800/100000 (77%)]	Loss: 5.5435
+Training time for epoch 12: 90.96465611457825 seconds
+Throughput in training for epoch 12: 1099.3280717077732 images/sec
+Train set: Average loss: 5.5372
+Testing time: 7.920467138290405 seconds
+Throughput for testing: 1262.5517946607442 images/sec
+Test set: Average loss: 5.5403, Accuracy: 0.0050, Precision: 0.0103, Recall: 0.0050, F1: 0.0142, Average: 0.0086
+
+############ Epoch: 13 start ###############
+Train Epoch: 13 [0/100000 (0%)]	Loss: 5.5193
+Train Epoch: 13 [25600/100000 (26%)]	Loss: 5.5061
+Train Epoch: 13 [51200/100000 (51%)]	Loss: 5.5735
+Train Epoch: 13 [76800/100000 (77%)]	Loss: 5.5397
+Training time for epoch 13: 92.42051196098328 seconds
+Throughput in training for epoch 13: 1082.0108856594143 images/sec
+Train set: Average loss: 5.5377
+Testing time: 7.737941026687622 seconds
+Throughput for testing: 1292.33344703852 images/sec
+Test set: Average loss: 5.5510, Accuracy: 0.0040, Precision: 0.0031, Recall: 0.0040, F1: 0.0137, Average: 0.0062
+
+############ Epoch: 14 start ###############
+Train Epoch: 14 [0/100000 (0%)]	Loss: 5.5259
+Train Epoch: 14 [25600/100000 (26%)]	Loss: 5.5087
+Train Epoch: 14 [51200/100000 (51%)]	Loss: 5.4817
+Train Epoch: 14 [76800/100000 (77%)]	Loss: 5.4762
+Training time for epoch 14: 90.18706369400024 seconds
+Throughput in training for epoch 14: 1108.8064729471014 images/sec
+Train set: Average loss: 5.5394
+Testing time: 7.855209827423096 seconds
+Throughput for testing: 1273.0404686440443 images/sec
+Test set: Average loss: 5.5560, Accuracy: 0.0041, Precision: 0.0015, Recall: 0.0041, F1: 0.0116, Average: 0.0053
+
+############ Epoch: 15 start ###############
+Train Epoch: 15 [0/100000 (0%)]	Loss: 5.5349
+Train Epoch: 15 [25600/100000 (26%)]	Loss: 5.4835
+Train Epoch: 15 [51200/100000 (51%)]	Loss: 5.5399
+Train Epoch: 15 [76800/100000 (77%)]	Loss: 5.5663
+Training time for epoch 15: 89.51155805587769 seconds
+Throughput in training for epoch 15: 1117.1741635596925 images/sec
+Train set: Average loss: 5.5370
+Testing time: 7.976921558380127 seconds
+Throughput for testing: 1253.616439225798 images/sec
+Test set: Average loss: 5.5586, Accuracy: 0.0053, Precision: 0.0019, Recall: 0.0053, F1: 0.0125, Average: 0.0063
+
+############ Epoch: 16 start ###############
+Train Epoch: 16 [0/100000 (0%)]	Loss: 5.5982
+Train Epoch: 16 [25600/100000 (26%)]	Loss: 5.5384
+Train Epoch: 16 [51200/100000 (51%)]	Loss: 5.5088
+Train Epoch: 16 [76800/100000 (77%)]	Loss: 5.4086
+Training time for epoch 16: 89.05745100975037 seconds
+Throughput in training for epoch 16: 1122.8706735503984 images/sec
+Train set: Average loss: 5.5376
+Testing time: 7.7336671352386475 seconds
+Throughput for testing: 1293.0476351166901 images/sec
+Test set: Average loss: 5.5556, Accuracy: 0.0050, Precision: 0.0086, Recall: 0.0050, F1: 0.0154, Average: 0.0085
+
+############ Epoch: 17 start ###############
+Train Epoch: 17 [0/100000 (0%)]	Loss: 5.5600
+Train Epoch: 17 [25600/100000 (26%)]	Loss: 5.5771
+Train Epoch: 17 [51200/100000 (51%)]	Loss: 5.4990
+Train Epoch: 17 [76800/100000 (77%)]	Loss: 5.5109
+Training time for epoch 17: 89.2720274925232 seconds
+Throughput in training for epoch 17: 1120.1717134561025 images/sec
+Train set: Average loss: 5.5379
+Testing time: 7.856821537017822 seconds
+Throughput for testing: 1272.7793234050794 images/sec
+Test set: Average loss: 5.5608, Accuracy: 0.0046, Precision: 0.0047, Recall: 0.0046, F1: 0.0171, Average: 0.0077
+
+############ Epoch: 18 start ###############
+Train Epoch: 18 [0/100000 (0%)]	Loss: 5.5070
+Train Epoch: 18 [25600/100000 (26%)]	Loss: 5.4353
+Train Epoch: 18 [51200/100000 (51%)]	Loss: 5.5832
+Train Epoch: 18 [76800/100000 (77%)]	Loss: 5.5558
+Training time for epoch 18: 92.26529812812805 seconds
+Throughput in training for epoch 18: 1083.8311047467796 images/sec
+Train set: Average loss: 5.5374
+Testing time: 7.692446947097778 seconds
+Throughput for testing: 1299.9764663665078 images/sec
+Test set: Average loss: 5.5477, Accuracy: 0.0041, Precision: 0.0042, Recall: 0.0041, F1: 0.0166, Average: 0.0072
+
+############ Epoch: 19 start ###############
+Train Epoch: 19 [0/100000 (0%)]	Loss: 5.5636
+Train Epoch: 19 [25600/100000 (26%)]	Loss: 5.5888
+Train Epoch: 19 [51200/100000 (51%)]	Loss: 5.6026
+Train Epoch: 19 [76800/100000 (77%)]	Loss: 5.5075
+Training time for epoch 19: 91.18295454978943 seconds
+Throughput in training for epoch 19: 1096.6962026372607 images/sec
+Train set: Average loss: 5.5386
+Testing time: 7.845026016235352 seconds
+Throughput for testing: 1274.6930321588368 images/sec
+Test set: Average loss: 5.5519, Accuracy: 0.0043, Precision: 0.0105, Recall: 0.0043, F1: 0.0132, Average: 0.0081
+
+############ Epoch: 20 start ###############
+Train Epoch: 20 [0/100000 (0%)]	Loss: 5.5188
+Train Epoch: 20 [25600/100000 (26%)]	Loss: 5.5509
+Train Epoch: 20 [51200/100000 (51%)]	Loss: 5.4870
+Train Epoch: 20 [76800/100000 (77%)]	Loss: 5.5933
+Training time for epoch 20: 89.03159880638123 seconds
+Throughput in training for epoch 20: 1123.1967227441571 images/sec
+Train set: Average loss: 5.5378
+Testing time: 7.736083269119263 seconds
+Throughput for testing: 1292.6437904201205 images/sec
+Test set: Average loss: 5.5533, Accuracy: 0.0052, Precision: 0.0192, Recall: 0.0052, F1: 0.0149, Average: 0.0111
+
+############ Epoch: 21 start ###############
+Train Epoch: 21 [0/100000 (0%)]	Loss: 5.4934
+Train Epoch: 21 [25600/100000 (26%)]	Loss: 5.5879
+Train Epoch: 21 [51200/100000 (51%)]	Loss: 5.5243
+Train Epoch: 21 [76800/100000 (77%)]	Loss: 5.5086
+Training time for epoch 21: 88.95225596427917 seconds
+Throughput in training for epoch 21: 1124.1985817667996 images/sec
+Train set: Average loss: 5.5390
+Testing time: 7.813486814498901 seconds
+Throughput for testing: 1279.8383407320468 images/sec
+Test set: Average loss: 5.5557, Accuracy: 0.0053, Precision: 0.0023, Recall: 0.0053, F1: 0.0146, Average: 0.0069
+
+############ Epoch: 22 start ###############
+Train Epoch: 22 [0/100000 (0%)]	Loss: 5.4771
+Train Epoch: 22 [25600/100000 (26%)]	Loss: 5.6119
+Train Epoch: 22 [51200/100000 (51%)]	Loss: 5.4926
+Train Epoch: 22 [76800/100000 (77%)]	Loss: 5.6386
+Training time for epoch 22: 88.21248579025269 seconds
+Throughput in training for epoch 22: 1133.6263693755902 images/sec
+Train set: Average loss: 5.5373
+Testing time: 7.419175863265991 seconds
+Throughput for testing: 1347.8586010492418 images/sec
+Test set: Average loss: 5.5497, Accuracy: 0.0043, Precision: 0.0131, Recall: 0.0043, F1: 0.0174, Average: 0.0098
+Early stopping at epoch 22
+Testing time: 7.484267473220825 seconds
+Throughput for testing: 1336.1361062763488 images/sec
+Test set: Average loss: 5.5386, Accuracy: 0.0044, Precision: 0.0018, Recall: 0.0044, F1: 0.0124, Average: 0.0058
+Test set: Average loss: 5.5386
+accuracy: 0.004400
+precision: 0.001812
+recall: 0.004400
+f1: 0.012398
+average: 0.005752
